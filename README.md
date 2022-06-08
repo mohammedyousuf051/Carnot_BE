@@ -1,4 +1,4 @@
-# carnot_backend
+# Carnot_backend
 
 We use Django Rest Framework for creating REST API's
 
